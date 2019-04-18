@@ -84,10 +84,18 @@ def sale_calc(data):
         pop.append(d["pop"])
 
     min_pop = min(pop)
-    pop_ind = pop.index(min_pop)
-    trades = None
-    if min_price[pop_ind] == max_price[pop_ind]:
+    pop_ind = [i for i, x in enumerate(pop) if x == min_pop]  # Creates a list with all of the indices for min(pop)
+
+    # Goes overy every instance of a riven having the min pop, if all of them have min == max it assumes min_pop is only 1 trade
+    for i in pop_ind:
+        if min_price[i] != max_price[i]:
+            break
+    else:
         trades = 100 / min_pop
+        return trades
+
+    # If the for loop breaks it assumes that min_pop is 2 trades which can't be confirmed but it's the best we got
+    trades = 100 / (min_pop / 2)
     return trades
 
 
