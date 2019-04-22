@@ -37,7 +37,7 @@ def get_riven_json(platform):
         print("File already exists!\n-----------------")
         return
 
-    print("No file found, creating it!\n-----------------")
+    print("No file found, saving it!\n-----------------")
     r = requests.get(URL.format(platform))
     r.raise_for_status()
     data = r.json()
@@ -100,7 +100,7 @@ def sale_calc(data):
 
 
 def total_json(platform, raw_dict, date, sales):
-    '''Creates the total files'''
+    '''Creates/modifies the total files'''
     total_file_path = os.path.normpath(TOTAL_FILE_PATH.format(platform=platform))
     try:
         with open(total_file_path, "r") as open_file:
