@@ -14,7 +14,7 @@
         "pop": 2.1036,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 262.95,
         "sale_diff": 0
     },
@@ -33,7 +33,7 @@
         "pop": 11.1281,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1391.0125,
         "sale_diff": 0
     },
@@ -52,7 +52,7 @@
         "pop": 4.9297,
         "pop_diff": 0,
         "median": 13,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 616.2125000000001,
         "sale_diff": 0
     },
@@ -71,7 +71,7 @@
         "pop": 9.2092,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1151.1499999999999,
         "sale_diff": 0
     },
@@ -90,7 +90,7 @@
         "pop": 2.2802,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 285.025,
         "sale_diff": 0
     },
@@ -109,7 +109,7 @@
         "pop": 1.9751,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 246.8875,
         "sale_diff": 0
     },
@@ -128,7 +128,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -147,7 +147,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 90,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -166,7 +166,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -185,7 +185,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -204,7 +204,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -223,7 +223,7 @@
         "pop": 0.1445,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 18.062499999999996,
         "sale_diff": 0
     },
@@ -242,7 +242,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -261,7 +261,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 37.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -280,7 +280,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 90,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -299,7 +299,7 @@
         "pop": 0.7306,
         "pop_diff": 0,
         "median": 175,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 91.325,
         "sale_diff": 0
     },
@@ -318,7 +318,7 @@
         "pop": 0.2168,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 27.1,
         "sale_diff": 0
     },
@@ -337,7 +337,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -356,7 +356,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -375,7 +375,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -394,7 +394,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 37.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -413,7 +413,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 107.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -432,7 +432,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -451,7 +451,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -470,7 +470,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -489,7 +489,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -508,7 +508,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -527,7 +527,7 @@
         "pop": 0.1445,
         "pop_diff": 0,
         "median": 125,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 18.062499999999996,
         "sale_diff": 0
     },
@@ -546,7 +546,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -565,7 +565,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 250,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -584,7 +584,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 110,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -603,7 +603,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -622,7 +622,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -641,7 +641,7 @@
         "pop": 0.2168,
         "pop_diff": 0,
         "median": 90,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 27.1,
         "sale_diff": 0
     },
@@ -660,7 +660,7 @@
         "pop": 0.6664,
         "pop_diff": 0,
         "median": 160,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 83.3,
         "sale_diff": 0
     },
@@ -679,7 +679,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -698,7 +698,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 27,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -717,7 +717,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -736,7 +736,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 42.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -755,7 +755,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -774,7 +774,7 @@
         "pop": 0.3934,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 49.175,
         "sale_diff": 0
     },
@@ -793,7 +793,7 @@
         "pop": 0.9394,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 117.425,
         "sale_diff": 0
     },
@@ -812,7 +812,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -831,7 +831,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -850,7 +850,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -869,7 +869,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 32.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -888,7 +888,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -907,7 +907,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -926,7 +926,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -945,7 +945,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -964,7 +964,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -983,7 +983,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -1002,7 +1002,7 @@
         "pop": 0.0963,
         "pop_diff": 0,
         "median": 42.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 12.0375,
         "sale_diff": 0
     },
@@ -1021,7 +1021,7 @@
         "pop": 0.0963,
         "pop_diff": 0,
         "median": 37.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 12.0375,
         "sale_diff": 0
     },
@@ -1040,7 +1040,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -1059,7 +1059,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 82.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -1078,7 +1078,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -1097,7 +1097,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -1116,7 +1116,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 22,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -1135,7 +1135,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -1154,7 +1154,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -1173,7 +1173,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -1192,7 +1192,7 @@
         "pop": 0.265,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 33.125,
         "sale_diff": 0
     },
@@ -1211,7 +1211,7 @@
         "pop": 0.5219,
         "pop_diff": 0,
         "median": 230,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 65.2375,
         "sale_diff": 0
     },
@@ -1230,7 +1230,7 @@
         "pop": 0.1766,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 22.075,
         "sale_diff": 0
     },
@@ -1249,7 +1249,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -1268,7 +1268,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 57.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -1287,7 +1287,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -1306,7 +1306,7 @@
         "pop": 0.273,
         "pop_diff": 0,
         "median": 90,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 34.12500000000001,
         "sale_diff": 0
     },
@@ -1325,7 +1325,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -1344,7 +1344,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -1363,7 +1363,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -1382,7 +1382,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -1401,7 +1401,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 7.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -1420,7 +1420,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 42.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -1439,7 +1439,7 @@
         "pop": 0.289,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 36.12499999999999,
         "sale_diff": 0
     },
@@ -1458,7 +1458,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 33,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -1477,7 +1477,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -1496,7 +1496,7 @@
         "pop": 0.2248,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 28.1,
         "sale_diff": 0
     },
@@ -1515,7 +1515,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -1534,7 +1534,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -1553,7 +1553,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -1572,7 +1572,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -1591,7 +1591,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -1610,7 +1610,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 120,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -1629,7 +1629,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 3.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -1648,7 +1648,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 18,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -1667,7 +1667,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -1686,7 +1686,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -1705,7 +1705,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 85,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -1724,7 +1724,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -1743,7 +1743,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -1762,7 +1762,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -1781,7 +1781,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -1800,7 +1800,7 @@
         "pop": 0.6825,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 85.3125,
         "sale_diff": 0
     },
@@ -1819,7 +1819,7 @@
         "pop": 1.397,
         "pop_diff": 0,
         "median": 112.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 174.625,
         "sale_diff": 0
     },
@@ -1838,7 +1838,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 27.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -1857,7 +1857,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 175,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -1876,7 +1876,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -1895,7 +1895,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -1914,7 +1914,7 @@
         "pop": 0.1686,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 21.075,
         "sale_diff": 0
     },
@@ -1933,7 +1933,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -1952,7 +1952,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 7.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -1971,7 +1971,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -1990,7 +1990,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2009,7 +2009,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2028,7 +2028,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -2047,7 +2047,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -2066,7 +2066,7 @@
         "pop": 0.3854,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 48.175,
         "sale_diff": 0
     },
@@ -2085,7 +2085,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 8,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2104,7 +2104,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2123,7 +2123,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -2142,7 +2142,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 85,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -2161,7 +2161,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 23,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -2180,7 +2180,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 2,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2199,7 +2199,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -2218,7 +2218,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -2237,7 +2237,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -2256,7 +2256,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -2275,7 +2275,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 130,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2294,7 +2294,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -2313,7 +2313,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -2332,7 +2332,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -2351,7 +2351,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2370,7 +2370,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -2389,7 +2389,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 155,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -2408,7 +2408,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -2427,7 +2427,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 52.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -2446,7 +2446,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 33.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -2465,7 +2465,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -2484,7 +2484,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -2503,7 +2503,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -2522,7 +2522,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -2541,7 +2541,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -2560,7 +2560,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -2579,7 +2579,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 92.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -2598,7 +2598,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -2617,7 +2617,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -2636,7 +2636,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -2655,7 +2655,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -2674,7 +2674,7 @@
         "pop": 0.2569,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 32.1125,
         "sale_diff": 0
     },
@@ -2693,7 +2693,7 @@
         "pop": 0.4255,
         "pop_diff": 0,
         "median": 120,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 53.1875,
         "sale_diff": 0
     },
@@ -2712,7 +2712,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -2731,7 +2731,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -2750,7 +2750,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -2769,7 +2769,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -2788,7 +2788,7 @@
         "pop": 0.3854,
         "pop_diff": 0,
         "median": 90,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 48.175,
         "sale_diff": 0
     },
@@ -2807,7 +2807,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -2826,7 +2826,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -2845,7 +2845,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -2864,7 +2864,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 17.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -2883,7 +2883,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -2902,7 +2902,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2921,7 +2921,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 4,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -2940,7 +2940,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -2959,7 +2959,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 16.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -2978,7 +2978,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -2997,7 +2997,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -3016,7 +3016,7 @@
         "pop": 0.1766,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 22.075,
         "sale_diff": 0
     },
@@ -3035,7 +3035,7 @@
         "pop": 0.1445,
         "pop_diff": 0,
         "median": 167.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 18.062499999999996,
         "sale_diff": 0
     },
@@ -3054,7 +3054,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 300,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3073,7 +3073,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -3092,7 +3092,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 43,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -3111,7 +3111,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 16,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -3130,7 +3130,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 500,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3149,7 +3149,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3168,7 +3168,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -3187,7 +3187,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -3206,7 +3206,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 10.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -3225,7 +3225,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3244,7 +3244,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -3263,7 +3263,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 57.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -3282,7 +3282,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -3301,7 +3301,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -3320,7 +3320,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -3339,7 +3339,7 @@
         "pop": 0.289,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 36.12499999999999,
         "sale_diff": 0
     },
@@ -3358,7 +3358,7 @@
         "pop": 0.2971,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 37.137499999999996,
         "sale_diff": 0
     },
@@ -3377,7 +3377,7 @@
         "pop": 0.3613,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 45.1625,
         "sale_diff": 0
     },
@@ -3396,7 +3396,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -3415,7 +3415,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3434,7 +3434,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -3453,7 +3453,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -3472,7 +3472,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -3491,7 +3491,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -3510,7 +3510,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 114,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -3529,7 +3529,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -3548,7 +3548,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3567,7 +3567,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3586,7 +3586,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -3605,7 +3605,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -3624,7 +3624,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -3643,7 +3643,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -3662,7 +3662,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -3681,7 +3681,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -3700,7 +3700,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -3719,7 +3719,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -3738,7 +3738,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -3757,7 +3757,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -3776,7 +3776,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -3795,7 +3795,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 78,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -3814,7 +3814,7 @@
         "pop": 0.2007,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 25.0875,
         "sale_diff": 0
     },
@@ -3833,7 +3833,7 @@
         "pop": 0.1927,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 24.0875,
         "sale_diff": 0
     },
@@ -3852,7 +3852,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -3871,7 +3871,7 @@
         "pop": 0.0963,
         "pop_diff": 0,
         "median": 72.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 12.0375,
         "sale_diff": 0
     },
@@ -3890,7 +3890,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -3909,7 +3909,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -3928,7 +3928,7 @@
         "pop": 0.2569,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 32.1125,
         "sale_diff": 0
     },
@@ -3947,7 +3947,7 @@
         "pop": 0.2489,
         "pop_diff": 0,
         "median": 74,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 31.1125,
         "sale_diff": 0
     },
@@ -3966,7 +3966,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -3985,7 +3985,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -4004,7 +4004,7 @@
         "pop": 0.3613,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 45.1625,
         "sale_diff": 0
     },
@@ -4023,7 +4023,7 @@
         "pop": 0.7547,
         "pop_diff": 0,
         "median": 300,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 94.3375,
         "sale_diff": 0
     },
@@ -4042,7 +4042,7 @@
         "pop": 0.3212,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 40.15,
         "sale_diff": 0
     },
@@ -4061,7 +4061,7 @@
         "pop": 0.2971,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 37.137499999999996,
         "sale_diff": 0
     },
@@ -4080,7 +4080,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -4099,7 +4099,7 @@
         "pop": 0.2328,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 29.1,
         "sale_diff": 0
     },
@@ -4118,7 +4118,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -4137,7 +4137,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4156,7 +4156,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -4175,7 +4175,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 75.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -4194,7 +4194,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4213,7 +4213,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -4232,7 +4232,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -4251,7 +4251,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4270,7 +4270,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -4289,7 +4289,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -4308,7 +4308,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 12.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -4327,7 +4327,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 37.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -4346,7 +4346,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -4365,7 +4365,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -4384,7 +4384,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -4403,7 +4403,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -4422,7 +4422,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -4441,7 +4441,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -4460,7 +4460,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4479,7 +4479,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -4498,7 +4498,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -4517,7 +4517,7 @@
         "pop": 0.6343,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 79.2875,
         "sale_diff": 0
     },
@@ -4536,7 +4536,7 @@
         "pop": 0.3131,
         "pop_diff": 0,
         "median": 85,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 39.1375,
         "sale_diff": 0
     },
@@ -4555,7 +4555,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -4574,7 +4574,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -4593,7 +4593,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -4612,7 +4612,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -4631,7 +4631,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 17.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -4650,7 +4650,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -4669,7 +4669,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 22.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -4688,7 +4688,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4707,7 +4707,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 47.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -4726,7 +4726,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -4745,7 +4745,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -4764,7 +4764,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -4783,7 +4783,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4802,7 +4802,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -4821,7 +4821,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -4840,7 +4840,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 75.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -4859,7 +4859,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -4878,7 +4878,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -4897,7 +4897,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -4916,7 +4916,7 @@
         "pop": 0.554,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 69.25000000000001,
         "sale_diff": 0
     },
@@ -4935,7 +4935,7 @@
         "pop": 0.1525,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 19.0625,
         "sale_diff": 0
     },
@@ -4954,7 +4954,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4973,7 +4973,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -4992,7 +4992,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 7.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -5011,7 +5011,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -5030,7 +5030,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -5049,7 +5049,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 170,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -5068,7 +5068,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -5087,7 +5087,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -5106,7 +5106,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -5125,7 +5125,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -5144,7 +5144,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -5163,7 +5163,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -5182,7 +5182,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -5201,7 +5201,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -5220,7 +5220,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -5239,7 +5239,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -5258,7 +5258,7 @@
         "pop": 0.289,
         "pop_diff": 0,
         "median": 191.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 36.12499999999999,
         "sale_diff": 0
     },
@@ -5277,7 +5277,7 @@
         "pop": 1.2124,
         "pop_diff": 0,
         "median": 215,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 151.54999999999998,
         "sale_diff": 0
     },
@@ -5296,7 +5296,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 135,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -5315,7 +5315,7 @@
         "pop": 0.0963,
         "pop_diff": 0,
         "median": 32.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 12.0375,
         "sale_diff": 0
     },
@@ -5334,7 +5334,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -5353,7 +5353,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -5372,7 +5372,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -5391,7 +5391,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -5410,7 +5410,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -5429,7 +5429,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -5448,7 +5448,7 @@
         "pop": 0.289,
         "pop_diff": 0,
         "median": 122.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 36.12499999999999,
         "sale_diff": 0
     },
@@ -5467,7 +5467,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -5486,7 +5486,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -5505,7 +5505,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -5524,7 +5524,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -5543,7 +5543,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -5562,7 +5562,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -5581,7 +5581,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -5600,7 +5600,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -5619,7 +5619,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -5638,7 +5638,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 12.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -5657,7 +5657,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -5676,7 +5676,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -5695,7 +5695,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -5714,7 +5714,7 @@
         "pop": 0.1927,
         "pop_diff": 0,
         "median": 42.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 24.0875,
         "sale_diff": 0
     },
@@ -5733,7 +5733,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -5752,7 +5752,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -5771,7 +5771,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -5790,7 +5790,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -5809,7 +5809,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -5828,7 +5828,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 95,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -5847,7 +5847,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -5866,7 +5866,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -5885,7 +5885,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 29,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -5904,7 +5904,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -5923,7 +5923,7 @@
         "pop": 0.2007,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 25.0875,
         "sale_diff": 0
     },
@@ -5942,7 +5942,7 @@
         "pop": 0.1445,
         "pop_diff": 0,
         "median": 95,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 18.062499999999996,
         "sale_diff": 0
     },
@@ -5961,7 +5961,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -5980,7 +5980,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -5999,7 +5999,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 2,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -6018,7 +6018,7 @@
         "pop": 0.1525,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 19.0625,
         "sale_diff": 0
     },
@@ -6037,7 +6037,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 77.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -6056,7 +6056,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 29,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -6075,7 +6075,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -6094,7 +6094,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -6113,7 +6113,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -6132,7 +6132,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -6151,7 +6151,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -6170,7 +6170,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -6189,7 +6189,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -6208,7 +6208,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -6227,7 +6227,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -6246,7 +6246,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -6265,7 +6265,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -6284,7 +6284,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -6303,7 +6303,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -6322,7 +6322,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 6,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -6341,7 +6341,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -6360,7 +6360,7 @@
         "pop": 0.4336,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 54.2,
         "sale_diff": 0
     },
@@ -6379,7 +6379,7 @@
         "pop": 2.3204,
         "pop_diff": 0,
         "median": 300,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 290.04999999999995,
         "sale_diff": 0
     },
@@ -6398,7 +6398,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -6417,7 +6417,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -6436,7 +6436,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -6455,7 +6455,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 26,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -6474,7 +6474,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -6493,7 +6493,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 82.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -6512,7 +6512,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 27.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -6531,7 +6531,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 72.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -6550,7 +6550,7 @@
         "pop": 0.2569,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 32.1125,
         "sale_diff": 0
     },
@@ -6569,7 +6569,7 @@
         "pop": 0.5219,
         "pop_diff": 0,
         "median": 350,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 65.2375,
         "sale_diff": 0
     },
@@ -6588,7 +6588,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -6607,7 +6607,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -6626,7 +6626,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -6645,7 +6645,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 8,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -6664,7 +6664,7 @@
         "pop": 0.2971,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 37.137499999999996,
         "sale_diff": 0
     },
@@ -6683,7 +6683,7 @@
         "pop": 0.2088,
         "pop_diff": 0,
         "median": 52.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 26.1,
         "sale_diff": 0
     },
@@ -6702,7 +6702,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 46,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -6721,7 +6721,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -6740,7 +6740,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -6759,7 +6759,7 @@
         "pop": 0.3212,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 40.15,
         "sale_diff": 0
     },
@@ -6778,7 +6778,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -6797,7 +6797,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 120,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -6816,7 +6816,7 @@
         "pop": 0.3212,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 40.15,
         "sale_diff": 0
     },
@@ -6835,7 +6835,7 @@
         "pop": 0.3774,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 47.175,
         "sale_diff": 0
     },
@@ -6854,7 +6854,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -6873,7 +6873,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -6892,7 +6892,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -6911,7 +6911,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -6930,7 +6930,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -6949,7 +6949,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -6968,7 +6968,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -6987,7 +6987,7 @@
         "pop": 0.546,
         "pop_diff": 0,
         "median": 145,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 68.25000000000001,
         "sale_diff": 0
     },
@@ -7006,7 +7006,7 @@
         "pop": 0.2007,
         "pop_diff": 0,
         "median": 90,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 25.0875,
         "sale_diff": 0
     },
@@ -7025,7 +7025,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -7044,7 +7044,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -7063,7 +7063,7 @@
         "pop": 0.1124,
         "pop_diff": 0,
         "median": 72.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 14.05,
         "sale_diff": 0
     },
@@ -7082,7 +7082,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 42.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -7101,7 +7101,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -7120,7 +7120,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 11,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -7139,7 +7139,7 @@
         "pop": 0.4175,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 52.1875,
         "sale_diff": 0
     },
@@ -7158,7 +7158,7 @@
         "pop": 0.3854,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 48.175,
         "sale_diff": 0
     },
@@ -7177,7 +7177,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -7196,7 +7196,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -7215,7 +7215,7 @@
         "pop": 0.2409,
         "pop_diff": 0,
         "median": 115.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 30.1125,
         "sale_diff": 0
     },
@@ -7234,7 +7234,7 @@
         "pop": 0.4657,
         "pop_diff": 0,
         "median": 197.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 58.2125,
         "sale_diff": 0
     },
@@ -7253,7 +7253,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 7,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -7272,7 +7272,7 @@
         "pop": 0.2971,
         "pop_diff": 0,
         "median": 280,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 37.137499999999996,
         "sale_diff": 0
     },
@@ -7291,7 +7291,7 @@
         "pop": 1.9671,
         "pop_diff": 0,
         "median": 400,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 245.8875,
         "sale_diff": 0
     },
@@ -7310,7 +7310,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 29,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -7329,7 +7329,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 34,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -7348,7 +7348,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -7367,7 +7367,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 37.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -7386,7 +7386,7 @@
         "pop": 0.1525,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 19.0625,
         "sale_diff": 0
     },
@@ -7405,7 +7405,7 @@
         "pop": 0.265,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 33.125,
         "sale_diff": 0
     },
@@ -7424,7 +7424,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -7443,7 +7443,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 52.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -7462,7 +7462,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 17.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -7481,7 +7481,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 14,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -7500,7 +7500,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -7519,7 +7519,7 @@
         "pop": 0.1686,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 21.075,
         "sale_diff": 0
     },
@@ -7538,7 +7538,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -7557,7 +7557,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -7576,7 +7576,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -7595,7 +7595,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -7614,7 +7614,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -7633,7 +7633,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -7652,7 +7652,7 @@
         "pop": 0.0963,
         "pop_diff": 0,
         "median": 47.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 12.0375,
         "sale_diff": 0
     },
@@ -7671,7 +7671,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -7690,7 +7690,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -7709,7 +7709,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -7728,7 +7728,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -7747,7 +7747,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -7766,7 +7766,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -7785,7 +7785,7 @@
         "pop": 0.2168,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 27.1,
         "sale_diff": 0
     },
@@ -7804,7 +7804,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -7823,7 +7823,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -7842,7 +7842,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -7861,7 +7861,7 @@
         "pop": 0.1927,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 24.0875,
         "sale_diff": 0
     },
@@ -7880,7 +7880,7 @@
         "pop": 0.1766,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 22.075,
         "sale_diff": 0
     },
@@ -7899,7 +7899,7 @@
         "pop": 0.1766,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 22.075,
         "sale_diff": 0
     },
@@ -7918,7 +7918,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -7937,7 +7937,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -7956,7 +7956,7 @@
         "pop": 0.2569,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 32.1125,
         "sale_diff": 0
     },
@@ -7975,7 +7975,7 @@
         "pop": 0.5219,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 65.2375,
         "sale_diff": 0
     },
@@ -7994,7 +7994,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -8013,7 +8013,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -8032,7 +8032,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -8051,7 +8051,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 7.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -8070,7 +8070,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 47.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -8089,7 +8089,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -8108,7 +8108,7 @@
         "pop": 0.2328,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 29.1,
         "sale_diff": 0
     },
@@ -8127,7 +8127,7 @@
         "pop": 0.3533,
         "pop_diff": 0,
         "median": 72.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 44.1625,
         "sale_diff": 0
     },
@@ -8146,7 +8146,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -8165,7 +8165,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 140,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -8184,7 +8184,7 @@
         "pop": 1.0197,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 127.4625,
         "sale_diff": 0
     },
@@ -8203,7 +8203,7 @@
         "pop": 3.0349,
         "pop_diff": 0,
         "median": 300,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 379.3625,
         "sale_diff": 0
     },
@@ -8222,7 +8222,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -8241,7 +8241,7 @@
         "pop": 0.1525,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 19.0625,
         "sale_diff": 0
     },
@@ -8260,7 +8260,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -8279,7 +8279,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -8298,7 +8298,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -8317,7 +8317,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -8336,7 +8336,7 @@
         "pop": 0.281,
         "pop_diff": 0,
         "median": 110,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 35.12500000000001,
         "sale_diff": 0
     },
@@ -8355,7 +8355,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -8374,7 +8374,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 102.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -8393,7 +8393,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 150,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -8412,7 +8412,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -8431,7 +8431,7 @@
         "pop": 0.2489,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 31.1125,
         "sale_diff": 0
     },
@@ -8450,7 +8450,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 77.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -8469,7 +8469,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -8488,7 +8488,7 @@
         "pop": 0.2489,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 31.1125,
         "sale_diff": 0
     },
@@ -8507,7 +8507,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -8526,7 +8526,7 @@
         "pop": 0.0241,
         "pop_diff": 0,
         "median": 5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 3.0125,
         "sale_diff": 0
     },
@@ -8545,7 +8545,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -8564,7 +8564,7 @@
         "pop": 0.4336,
         "pop_diff": 0,
         "median": 500,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 54.2,
         "sale_diff": 0
     },
@@ -8583,7 +8583,7 @@
         "pop": 0.6343,
         "pop_diff": 0,
         "median": 800,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 79.2875,
         "sale_diff": 0
     },
@@ -8602,7 +8602,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -8621,7 +8621,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -8640,7 +8640,7 @@
         "pop": 0.1204,
         "pop_diff": 0,
         "median": 48,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 15.05,
         "sale_diff": 0
     },
@@ -8659,7 +8659,7 @@
         "pop": 0.0963,
         "pop_diff": 0,
         "median": 55,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 12.0375,
         "sale_diff": 0
     },
@@ -8678,7 +8678,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -8697,7 +8697,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 28.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -8716,7 +8716,7 @@
         "pop": 0.2409,
         "pop_diff": 0,
         "median": 77.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 30.1125,
         "sale_diff": 0
     },
@@ -8735,7 +8735,7 @@
         "pop": 0.7226,
         "pop_diff": 0,
         "median": 172.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 90.325,
         "sale_diff": 0
     },
@@ -8754,7 +8754,7 @@
         "pop": 0.4737,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 59.2125,
         "sale_diff": 0
     },
@@ -8773,7 +8773,7 @@
         "pop": 0.1686,
         "pop_diff": 0,
         "median": 60,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 21.075,
         "sale_diff": 0
     },
@@ -8792,7 +8792,7 @@
         "pop": 0.827,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 103.375,
         "sale_diff": 0
     },
@@ -8811,7 +8811,7 @@
         "pop": 2.1437,
         "pop_diff": 0,
         "median": 350,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 267.9625,
         "sale_diff": 0
     },
@@ -8830,7 +8830,7 @@
         "pop": 0.5058,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 63.225,
         "sale_diff": 0
     },
@@ -8849,7 +8849,7 @@
         "pop": 0.8109,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 101.3625,
         "sale_diff": 0
     },
@@ -8868,7 +8868,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -8887,7 +8887,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -8906,7 +8906,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -8925,7 +8925,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 27,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -8944,7 +8944,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -8963,7 +8963,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 27.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -8982,7 +8982,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 14,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -9001,7 +9001,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 82.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -9020,7 +9020,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -9039,7 +9039,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 80,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -9058,7 +9058,7 @@
         "pop": 0.1285,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 16.0625,
         "sale_diff": 0
     },
@@ -9077,7 +9077,7 @@
         "pop": 0.1445,
         "pop_diff": 0,
         "median": 155,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 18.062499999999996,
         "sale_diff": 0
     },
@@ -9096,7 +9096,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 76.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -9115,7 +9115,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -9134,7 +9134,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 200,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -9153,7 +9153,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -9172,7 +9172,7 @@
         "pop": 0.1044,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 13.05,
         "sale_diff": 0
     },
@@ -9191,7 +9191,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -9210,7 +9210,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -9229,7 +9229,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 20,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -9248,7 +9248,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -9267,7 +9267,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -9286,7 +9286,7 @@
         "pop": 0.0321,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 4.012499999999999,
         "sale_diff": 0
     },
@@ -9305,7 +9305,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -9324,7 +9324,7 @@
         "pop": 0.1766,
         "pop_diff": 0,
         "median": 77.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 22.075,
         "sale_diff": 0
     },
@@ -9343,7 +9343,7 @@
         "pop": 0.6022,
         "pop_diff": 0,
         "median": 157,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 75.27499999999999,
         "sale_diff": 0
     },
@@ -9362,7 +9362,7 @@
         "pop": 0.0401,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 5.012499999999999,
         "sale_diff": 0
     },
@@ -9381,7 +9381,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 30,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -9400,7 +9400,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -9419,7 +9419,7 @@
         "pop": 0.0803,
         "pop_diff": 0,
         "median": 22.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 10.0375,
         "sale_diff": 0
     },
@@ -9438,7 +9438,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -9457,7 +9457,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 7.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -9476,7 +9476,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 35,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -9495,7 +9495,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 222.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -9514,7 +9514,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 40,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -9533,7 +9533,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -9552,7 +9552,7 @@
         "pop": 0.0161,
         "pop_diff": 0,
         "median": 45,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 2.0125,
         "sale_diff": 0
     },
@@ -9571,7 +9571,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 10,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     },
@@ -9590,7 +9590,7 @@
         "pop": 0.0883,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 11.0375,
         "sale_diff": 0
     },
@@ -9609,7 +9609,7 @@
         "pop": 0.2007,
         "pop_diff": 0,
         "median": 70,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 25.0875,
         "sale_diff": 0
     },
@@ -9628,7 +9628,7 @@
         "pop": 0.5138,
         "pop_diff": 0,
         "median": 350,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 64.225,
         "sale_diff": 0
     },
@@ -9647,7 +9647,7 @@
         "pop": 0.3372,
         "pop_diff": 0,
         "median": 250,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 42.15,
         "sale_diff": 0
     },
@@ -9666,7 +9666,7 @@
         "pop": 0.0723,
         "pop_diff": 0,
         "median": 75,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 9.0375,
         "sale_diff": 0
     },
@@ -9685,7 +9685,7 @@
         "pop": 0.1606,
         "pop_diff": 0,
         "median": 27.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 20.075,
         "sale_diff": 0
     },
@@ -9704,7 +9704,7 @@
         "pop": 0.1686,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 21.075,
         "sale_diff": 0
     },
@@ -9723,7 +9723,7 @@
         "pop": 0.2168,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 27.1,
         "sale_diff": 0
     },
@@ -9742,7 +9742,7 @@
         "pop": 0.1365,
         "pop_diff": 0,
         "median": 100,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 17.062500000000004,
         "sale_diff": 0
     },
@@ -9761,7 +9761,7 @@
         "pop": 0.6182,
         "pop_diff": 0,
         "median": 175,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 77.275,
         "sale_diff": 0
     },
@@ -9780,7 +9780,7 @@
         "pop": 0.2168,
         "pop_diff": 0,
         "median": 140,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 27.1,
         "sale_diff": 0
     },
@@ -9799,7 +9799,7 @@
         "pop": 0.1847,
         "pop_diff": 0,
         "median": 50,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 23.0875,
         "sale_diff": 0
     },
@@ -9818,7 +9818,7 @@
         "pop": 0.0562,
         "pop_diff": 0,
         "median": 25,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 7.025,
         "sale_diff": 0
     },
@@ -9837,7 +9837,7 @@
         "pop": 0.0482,
         "pop_diff": 0,
         "median": 65,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 6.025,
         "sale_diff": 0
     },
@@ -9856,7 +9856,7 @@
         "pop": 0.0642,
         "pop_diff": 0,
         "median": 22.5,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 8.024999999999999,
         "sale_diff": 0
     },
@@ -9875,7 +9875,7 @@
         "pop": 0.008,
         "pop_diff": 0,
         "median": 15,
-        "median_diff": 0,
+        "median_diff": 0.0,
         "sales": 1.0,
         "sale_diff": 0
     }

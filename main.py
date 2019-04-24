@@ -224,7 +224,7 @@ def comparison(platform, raw_dict, total_dict, sales, file_path):
 
         # First 2 weeks don't have median this handles it
         try:
-            median = raw["Median"]
+            median = raw["median"]
             total_median = total["total_median"]
             median_count = total["median_count"]
             if median_count == 0:
@@ -265,7 +265,7 @@ def comparison(platform, raw_dict, total_dict, sales, file_path):
             "max_diff": max_diff,
             "pop": raw["pop"],
             "pop_diff": pop_diff,
-            "median": raw["median"],
+            "median": median,
             "median_diff": median_diff,
             "sales": current_sales,
             "sale_diff": sales_diff
