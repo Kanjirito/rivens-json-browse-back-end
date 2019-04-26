@@ -227,10 +227,10 @@ def comparison(platform, raw_dict, total_dict, sales, file_path):
             median = raw["median"]
             total_median = total["total_median"]
             median_count = total["median_count"]
-            if median_count == 0:
+            if median_count == 0 or median_count == 1:
                 median_diff = 0
             else:
-                median_diff = median - (total_median / median_count)
+                median_diff = median - ((total_median - median) / (median_count - 1))
         except KeyError:
             median = 0
             median_diff = 0
