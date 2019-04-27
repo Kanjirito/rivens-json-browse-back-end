@@ -64,20 +64,29 @@ def process_data(platform):
             raw_dict = create_dict(raw_data, 1)
             del raw_data
 
+        # Checks if the dates.json file exists if not creates a empty one
         try:
             with open(DATE_PATH, "r") as date_file:
                 dates = json.load(date_file)
         except FileNotFoundError:
             dates = {}
-            with open(DATE_PATH, "w") as date_file:
-                json.dump(dates, date_file, indent=4)
 
         # Calls total_json which handles the total file and returns the total_dict
-        total_dict = total_json(platform, raw_dict, date, sales, dates)
+        if date in dates.get(platform, []):
+            print(f"Data from {date} already in TOTAL_{platform}!")
+        else:
+            total_json(platform, raw_dict, sales)
+            dates_save(platform, date, dates)
 
+        # Checks if the edited file for the selected week exists if not creates it
         if os.path.isfile(edit_file_path):
             print(f"/edited/{filename} Aleady exists!")
         else:
+            total_file_path = os.path.normpath(TOTAL_FILE_PATH.format(platform=platform))
+            with open(total_file_path, "r") as open_file:
+                total_file = json.load(open_file)
+                total_dict = create_dict(total_file, 3)
+                del total_file
             comparison(platform, raw_dict, total_dict, sales, edit_file_path)
 
 
@@ -108,26 +117,16 @@ def sale_calc(data):
     return trades
 
 
-def total_json(platform, raw_dict, date, sales, date_file):
+def total_json(platform, raw_dict, sales):
     '''Creates/modifies the total files'''
 
-    date_list = date_file.get(platform, [])
-    date_list.append(date)
-    date_file[platform] = date_list
     total_file_path = os.path.normpath(TOTAL_FILE_PATH.format(platform=platform))
     try:
         with open(total_file_path, "r") as open_file:
             total_file = json.load(open_file)
             total_dict = create_dict(total_file, 3)
-            dates = total_file[0]
             del total_file
         print(f"Found TOTAL_{platform} adding data!")
-
-        if date in dates:
-            print(f"Data from {date} already in TOTAL!")
-            return total_dict      # Will stop the function to prevent the unneeded saving of the same data
-
-        dates.append(date)
 
         for key in list(raw_dict.keys()):
             if raw_dict[key]["median"] == 0:
@@ -166,12 +165,9 @@ def total_json(platform, raw_dict, date, sales, date_file):
             total["count"] += 1
 
         total_file = []
-        total_file.append(dates)
-
-        d_l = []
         for key in list(total_dict.keys()):
             total = total_dict[key]
-            d_l.append({
+            total_file.append({
                 "itemType": total["itemType"],
                 "compatibility": total["compatibility"],
                 "rerolled": total["rerolled"],
@@ -185,17 +181,14 @@ def total_json(platform, raw_dict, date, sales, date_file):
                 "median_count": total["median_count"],
                 "count": total["count"]
             })
-        total_file.append(d_l)
 
     # File doesn't exist
     except FileNotFoundError:
         print(f"No TOTAL_{platform} found creating it!")
         # Adds the date into the first list
         total_file = []
-        total_file.append([date])
 
         # Data list
-        d_l = []
         for key in list(raw_dict.keys()):
             raw = raw_dict[key]
 
@@ -204,7 +197,7 @@ def total_json(platform, raw_dict, date, sales, date_file):
             else:
                 median_count = 1
 
-            d_l.append({
+            total_file.append({
                 "itemType": raw["itemType"],
                 "compatibility": raw["compatibility"],
                 "rerolled": raw["rerolled"],
@@ -219,16 +212,10 @@ def total_json(platform, raw_dict, date, sales, date_file):
                 "count": 1
             })
 
-        total_file.append(d_l)
-        total_dict = create_dict(total_file, 3)
     print(f"Saving TOTAL_{platform}.json\n")
 
     with open(total_file_path, "w") as file:
         json.dump(total_file, file, indent=4)
-
-    with open(DATE_PATH, "w") as file:
-        json.dump(date_file, file, indent=4)
-    return total_dict
 
 
 def comparison(platform, raw_dict, total_dict, sales, file_path):
@@ -337,7 +324,7 @@ def create_dict(data, mode):
             data_dict[name] = {d}
 
     elif mode == 3:
-        for d in data[1]:
+        for d in data:
 
             # Creates the name for the riven
             if d["compatibility"] is None:
@@ -372,12 +359,21 @@ def total_sort(platform):
     with open(total_file_path, "r") as in_file:
         data = json.load(in_file)
 
-    veiled = data[1][0:6]
-    un_veiled = sorted(data[1][6:], key=itemgetter('compatibility', 'rerolled'))
-    sorted_file = [data[0], veiled + un_veiled]
+    veiled = data[0:6]
+    un_veiled = sorted(data[6:], key=itemgetter('compatibility', 'rerolled'))
+    sorted_file = [veiled + un_veiled]
 
     with open(total_file_path, "w") as out_file:
         json.dump(sorted_file, out_file, indent=4)
+
+
+def dates_save(platform, date, dates):
+    platform_dates = dates.get(platform, [])
+    platform_dates.append(date)
+    dates[platform] = platform_dates
+
+    with open(DATE_PATH, "w") as file:
+        json.dump(dates, file, indent=4)
 
 
 if __name__ == '__main__':
