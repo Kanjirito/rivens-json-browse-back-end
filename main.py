@@ -213,7 +213,6 @@ def total_json(platform, raw_dict, sales):
             })
 
     print(f"Saving TOTAL_{platform}.json\n")
-
     with open(total_file_path, "w") as file:
         json.dump(total_file, file, indent=4)
 
@@ -361,7 +360,7 @@ def total_sort(platform):
 
     veiled = data[0:6]
     un_veiled = sorted(data[6:], key=itemgetter('compatibility', 'rerolled'))
-    sorted_file = [veiled + un_veiled]
+    sorted_file = veiled + un_veiled
 
     with open(total_file_path, "w") as out_file:
         json.dump(sorted_file, out_file, indent=4)
