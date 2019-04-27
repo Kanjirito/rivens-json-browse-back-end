@@ -8,6 +8,7 @@ from operator import itemgetter
 # GLOBALS
 PATH = os.path.abspath(os.path.dirname(os.path.realpath(__file__)))   # Gets the absolute path for the running file
 FILE_NAME = "Riven_data_{platform}_{monday:%y}-{monday:%m}-{monday:%d}.json"
+DATE_PATH = os.path.normpath(os.path.join(PATH, "data/dates.json"))
 
 RAW_PATH = os.path.join(PATH, 'data/{platform}/raw')
 RAW_FILE_PATH = os.path.join(RAW_PATH, FILE_NAME)
@@ -63,8 +64,16 @@ def process_data(platform):
             raw_dict = create_dict(raw_data, 1)
             del raw_data
 
+        try:
+            with open(DATE_PATH, "r") as date_file:
+                dates = json.load(date_file)
+        except FileNotFoundError:
+            dates = {}
+            with open(DATE_PATH, "w") as date_file:
+                json.dump(dates, date_file, indent=4)
+
         # Calls total_json which handles the total file and returns the total_dict
-        total_dict = total_json(platform, raw_dict, date, sales)
+        total_dict = total_json(platform, raw_dict, date, sales, dates)
 
         if os.path.isfile(edit_file_path):
             print(f"/edited/{filename} Aleady exists!")
@@ -99,8 +108,12 @@ def sale_calc(data):
     return trades
 
 
-def total_json(platform, raw_dict, date, sales):
+def total_json(platform, raw_dict, date, sales, date_file):
     '''Creates/modifies the total files'''
+
+    date_list = date_file.get(platform, [])
+    date_list.append(date)
+    date_file[platform] = date_list
     total_file_path = os.path.normpath(TOTAL_FILE_PATH.format(platform=platform))
     try:
         with open(total_file_path, "r") as open_file:
@@ -212,6 +225,9 @@ def total_json(platform, raw_dict, date, sales):
 
     with open(total_file_path, "w") as file:
         json.dump(total_file, file, indent=4)
+
+    with open(DATE_PATH, "w") as file:
+        json.dump(date_file, file, indent=4)
     return total_dict
 
 
