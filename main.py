@@ -61,7 +61,7 @@ def process_data(platform):
         with open(raw_file_path, "r") as raw:
             raw_data = json.load(raw)
             sales = sale_calc(raw_data)
-            raw_dict = create_dict(raw_data, 1)
+            raw_dict = create_dict(lstrip_name(raw_data), 1)
             del raw_data
 
         # Checks if the dates.json file exists if not creates a empty one
@@ -212,6 +212,7 @@ def total_json(platform, raw_dict, sales):
                 "count": 1
             })
 
+    total_file = lstrip_name(total_file)
     print(f"Saving TOTAL_{platform}.json\n")
     with open(total_file_path, "w") as file:
         json.dump(total_file, file, indent=4)
@@ -272,6 +273,7 @@ def comparison(platform, raw_dict, total_dict, sales, file_path):
             "sales": current_sales,
             "sale_diff": sales_diff
         })
+    edited_list = lstrip_name(edited_list)
 
     with open(file_path, "w") as file:
         json.dump(edited_list, file, indent=4)
@@ -381,6 +383,14 @@ def dates_save(platform, date, dates):
 
     with open(DATE_PATH, "w") as file:
         json.dump(dates, file, indent=4)
+
+
+def lstrip_name(data):
+    for d in data:
+        if d["compatibility"] is not None:
+            if d["compatibility"].startswith("<ARCHWING>"):
+                d["compatibility"] = d["compatibility"][11:]
+    return data
 
 
 if __name__ == '__main__':
