@@ -355,11 +355,19 @@ def total_sort(platform):
     print(f"Sorting TOTAL_{platform}")
     total_file_path = os.path.normpath(TOTAL_FILE_PATH.format(platform=platform))
 
+    veiled = []
+    un_veiled = []
     with open(total_file_path, "r") as in_file:
         data = json.load(in_file)
 
-    veiled = data[0:6]
-    un_veiled = sorted(data[6:], key=itemgetter('compatibility', 'rerolled'))
+    for d in data:
+        if d['compatibility'] is None:
+            veiled.append(d)
+        else:
+            un_veiled.append(d)
+        veiled = sorted(veiled, key=itemgetter("itemType"))
+        un_veiled = sorted(un_veiled, key=itemgetter('compatibility', 'rerolled'))
+
     sorted_file = veiled + un_veiled
 
     with open(total_file_path, "w") as out_file:
