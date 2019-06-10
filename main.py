@@ -50,7 +50,7 @@ def process_data(platform):
     '''Calls all of the processing functions for every raw file'''
 
     # Goes over every file in the raw folder and processes the data for it
-    for filename in os.listdir(os.path.normpath(RAW_PATH.format(platform=platform))):
+    for filename in sorted(os.listdir(os.path.normpath(RAW_PATH.format(platform=platform)))):
 
         print(f"\nProcessing raw {filename}\n")
 
