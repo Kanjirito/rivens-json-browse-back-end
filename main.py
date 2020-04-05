@@ -42,8 +42,11 @@ def get_riven_json(platform):
     r = requests.get(URL.format(platform))
     r.raise_for_status()
     data = r.json()
-    with open(file_path, "w") as outfile:
-        json.dump(data, outfile, indent=4)
+    if data:
+        with open(file_path, "w") as outfile:
+            json.dump(data, outfile, indent=4)
+    else:
+        print("JSON empty, not saving it.")
 
 
 def process_data(platform):
@@ -80,7 +83,7 @@ def process_data(platform):
 
         # Checks if the edited file for the selected week exists if not creates it
         if os.path.isfile(edit_file_path):
-            print(f"/edited/{filename} Aleady exists!")
+            print(f"/edited/{filename} Already exists!")
         else:
             total_file_path = os.path.normpath(TOTAL_FILE_PATH.format(platform=platform))
             with open(total_file_path, "r") as open_file:
